@@ -1,0 +1,17 @@
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Infrastructure.deps.json
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Infrastructure.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Infrastructure.pdb
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.AssemblyInfoInputs.cache
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.AssemblyInfo.cs
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\refint\CustomerPlatform.Infrastructure.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.pdb
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\ref\CustomerPlatform.Infrastructure.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\CustomerPlatform.Infrastructure.csproj.AssemblyReference.cache
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Application.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Domain.dll
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Application.pdb
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\bin\Debug\net9.0\CustomerPlatform.Domain.pdb
+D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Infrastructure\obj\Debug\net9.0\Customer.E2D1B10A.Up2Date
