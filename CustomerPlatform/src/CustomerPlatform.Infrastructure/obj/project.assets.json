@@ -1073,11 +1073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj",
       "projectName": "CustomerPlatform.Infrastructure",
-      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj",
+      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ravih\\.nuget\\packages\\",
-      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\obj\\",
+      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1099,11 +1099,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj": {
-              "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj"
+            "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj": {
+              "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj"
             },
-            "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj": {
-              "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj"
+            "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj": {
+              "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj"
             }
           }
         }

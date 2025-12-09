@@ -949,11 +949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
+      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
       "projectName": "CustomerPlatform.Tests",
-      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
+      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
       "packagesPath": "C:\\Users\\ravih\\.nuget\\packages\\",
-      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\obj\\",
+      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

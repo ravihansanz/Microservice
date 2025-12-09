@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWwhvKU0vMs=",
+  "dgSpecHash": "93rEX6iloT8=",
   "success": true,
-  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ravih\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\ravih\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
@@ -32,9 +32,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 14.0.0 was resolved.",
-      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+      "filePath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"

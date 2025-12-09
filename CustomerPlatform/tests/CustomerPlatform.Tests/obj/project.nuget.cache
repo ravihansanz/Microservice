@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PydqL6igkpw=",
+  "dgSpecHash": "1fndWKfCFkM=",
   "success": true,
-  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
+  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\tests\\CustomerPlatform.Tests\\CustomerPlatform.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ravih\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\ravih\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

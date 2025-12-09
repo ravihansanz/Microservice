@@ -1,193 +1,213 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\",
+  "WorkspaceRootPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|solutionrelative:src\\customerplatform.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|solutionrelative:src\\customerplatform.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\validator\\upgradesubscriptionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\validator\\upgradesubscriptionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\customerplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\customerplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\upgradesubscriptionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\upgradesubscriptionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\validator\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\validator\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getplansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getplansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getplansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getplansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getsubscriptionsbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getsubscriptionsbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getsubscriptionsbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getsubscriptionsbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getordersbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getordersbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\commands\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\commands\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\validator\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\validator\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\dtos\\subscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\subscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\customerplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\customerplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\handler\\upgradesubscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\handler\\upgradesubscriptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\commands\\upgradesubscriptioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\commands\\upgradesubscriptioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\upgradesubscriptionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\upgradesubscriptionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\customerplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\customerplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\commands\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\commands\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|solutionrelative:src\\customerplatform.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\controllers\\planscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{208CCA3D-66D2-4407-BB93-5148A9873572}|src\\CustomerPlatform.Api\\CustomerPlatform.Api.csproj|solutionrelative:src\\customerplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\validator\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\validator\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getplansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getplansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getplansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getplansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getsubscriptionsbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getsubscriptionsbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getsubscriptionsbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getsubscriptionsbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getordersbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getordersbycustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\validator\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\validator\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\subscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\subscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33088EB-8C01-4EE0-8586-FDAC1E730033}|src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj|solutionrelative:src\\customerplatform.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\enums\\customerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\customerplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\customerplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7073A12-3C8F-4BCB-B207-089BEC481A63}|src\\CustomerPlatform.Infrastructure\\CustomerPlatform.Infrastructure.csproj|solutionrelative:src\\customerplatform.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\code\\customerplatform\\src\\customerplatform.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|d:\\interview\\code\\2degree\\project\\repo\\microservice\\customerplatform\\src\\customerplatform.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC24F0B2-F96B-4F43-8320-43C6D8B98C8D}|src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj|solutionrelative:src\\customerplatform.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -198,587 +218,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Program.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Program.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:07:25.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubscriptionsController.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:09:12.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:07:09.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:05:36.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:42:38.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlansController.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:09:32.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:08:31.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CreateCustomerCommand.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
+              "Title": "UpgradeSubscriptionHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Handler\\UpgradeSubscriptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Handler\\UpgradeSubscriptionHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Handler\\UpgradeSubscriptionHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Handler\\UpgradeSubscriptionHandler.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwDoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:57:51.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:55:12.084Z",
+              "WhenOpened": "2025-12-09T03:03:37.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:08:55.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:06:43.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\appsettings.json",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Api\\appsettings.json",
-              "RelativeToolTip": "src\\CustomerPlatform.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-09T00:08:05.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "RelativeToolTip": "src\\CustomerPlatform.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T23:52:31.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:03:57.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetPlansQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:02:45.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetPlansQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:02:27.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetSubscriptionsByCustomerQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:02:11.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GetSubscriptionsByCustomerQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:01:51.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetOrdersByCustomerQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:01:32.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomerPlatform.Application.csproj",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-08T23:10:21.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Class1.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Class1.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:04:52.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetOrdersByCustomerQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:01:18.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetOrderByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:01:04.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetOrderByIdQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T00:00:50.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateCustomerCommandHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:59:05.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateCustomerCommandValidator.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:58:43.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GetCustomerByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:56:28.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GetCustomerByIdQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:56:14.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetCustomersQueryHandler.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:55:59.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GetCustomersQuery.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:55:44.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "PlanDto.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:54:41.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "SubscriptionDto.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:54:24.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:54:11.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CustomerDto.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:53:55.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:51:15.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "OrderType.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:51:00.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "PlanType.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:50:45.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "SubscriptionStatus.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:50:29.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "SubscriptionType.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:50:15.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CustomerStatus.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:49:59.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CustomerPlatform.Domain.csproj",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-08T23:49:38.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Order.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:49:26.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Plan.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:49:08.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:48:48.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
               "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -787,29 +261,606 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UpgradeSubscriptionResponseDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionResponseDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionResponseDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:05:40.305Z",
+              "WhenOpened": "2025-12-09T02:58:40.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Program.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Program.cs*",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:07:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpgradeSubscriptionValidator.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\UpgradeSubscriptionValidator.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Validator\\UpgradeSubscriptionValidator.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\UpgradeSubscriptionValidator.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Validator\\UpgradeSubscriptionValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T03:01:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\SubscriptionsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:09:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAApwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:06:43.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:48:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpgradeSubscriptionCommand.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\UpgradeSubscriptionCommand.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Commands\\UpgradeSubscriptionCommand.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\UpgradeSubscriptionCommand.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Commands\\UpgradeSubscriptionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:59:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderType.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\OrderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:51:00.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:49:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpgradeSubscriptionRequestDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionRequestDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionRequestDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\UpgradeSubscriptionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:58:22.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Entities\\Plan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:49:08.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerPlatform.Application.csproj",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\CustomerPlatform.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T23:10:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:59:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:05:36.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:08:31.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:07:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:42:38.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlansController.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\PlansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:09:32.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Commands\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:57:51.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:55:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:08:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Api\\appsettings.json",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Api\\appsettings.json",
+              "RelativeToolTip": "src\\CustomerPlatform.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T00:08:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Validator\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:03:57.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetPlansQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetPlansQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:02:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetPlansQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetPlansQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:02:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetSubscriptionsByCustomerQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQueryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:02:11.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetSubscriptionsByCustomerQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetSubscriptionsByCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:01:51.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetOrdersByCustomerQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:01:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Class1.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Class1.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Class1.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:04:52.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetOrdersByCustomerQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrdersByCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:01:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:01:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:00:50.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Validator\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:58:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetCustomerByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:56:28.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:56:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetCustomersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:55:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetCustomersQuery.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\Queries\\GetCustomersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:55:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PlanDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\PlanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:54:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SubscriptionDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\SubscriptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:54:24.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:54:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Application\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:53:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:51:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlanType.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\PlanType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:50:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SubscriptionStatus.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:50:29.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\SubscriptionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:50:15.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerStatus.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\Enums\\CustomerStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:49:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerPlatform.Domain.csproj",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+              "RelativeToolTip": "src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T23:49:38.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\CustomerPlatform.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "src\\CustomerPlatform.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:05:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "src\\CustomerPlatform.Domain\\Class1.cs",
-              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Class1.cs",
+              "ToolTip": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\Class1.cs",
               "RelativeToolTip": "src\\CustomerPlatform.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T23:05:19.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T23:05:19.081Z"
             }
           ]
         }

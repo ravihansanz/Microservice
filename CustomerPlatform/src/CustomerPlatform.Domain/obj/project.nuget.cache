@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jaqelTQq4vs=",
+  "dgSpecHash": "I2+fqqz2U3M=",
   "success": true,
-  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+  "projectFilePath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

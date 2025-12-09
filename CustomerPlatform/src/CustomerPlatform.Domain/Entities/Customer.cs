@@ -13,6 +13,6 @@ public class Customer
 
     public Enums.CustomerStatus Status { get; set; }
 
-    public ICollection<Subscription> Subscriptions { get; set; } = new List<Subscription>();
+    public  Subscription Subscriptions { get; set; } = new  Subscription();
     public ICollection<Order> Orders { get; set; } = new List<Order>();
 }

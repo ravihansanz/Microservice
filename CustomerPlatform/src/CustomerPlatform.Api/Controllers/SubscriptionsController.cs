@@ -1,4 +1,6 @@
-﻿using CustomerPlatform.Application.Subscriptions;
+﻿using CustomerPlatform.Application.Commands;
+using CustomerPlatform.Application.DTOs;
+using CustomerPlatform.Application.Subscriptions;
 using CustomerPlatform.Application.Subscriptions.Queries.GetSubscriptionsByCustomer;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -20,6 +22,15 @@ public class SubscriptionsController : ControllerBase
     public async Task<ActionResult<IEnumerable<SubscriptionDto>>> GetByCustomer(Guid customerId, CancellationToken cancellationToken)
     {
         var result = await _mediator.Send(new GetSubscriptionsByCustomerQuery(customerId), cancellationToken);
+        return Ok(result);
+    }
+
+    [HttpPost("{customerId}/upgrade")]
+    public async Task<IActionResult> Upgrade(Guid customerId, UpgradeSubscriptionRequestDto req)
+    {
+        var result = await _mediator.Send(
+            new UpgradeSubscriptionCommand(customerId, req.NewPlanId));
+
         return Ok(result);
     }
 }

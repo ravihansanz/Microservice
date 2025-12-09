@@ -22,14 +22,14 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
         base.OnModelCreating(modelBuilder);
 
         modelBuilder.Entity<Customer>()
-            .HasMany(c => c.Subscriptions)
-            .WithOne(s => s.Customer!)
-            .HasForeignKey(s => s.CustomerId);
+            .HasOne(c => c.Subscriptions)
+            .WithOne(s => s.Customer)
+            .HasForeignKey<Subscription>(s => s.CustomerId);
 
-        modelBuilder.Entity<Customer>()
-            .HasMany(c => c.Orders)
-            .WithOne(o => o.Customer!)
-            .HasForeignKey(o => o.CustomerId);
+        modelBuilder.Entity<Subscription>()
+            .HasOne(s => s.Plan)
+            .WithMany()
+            .HasForeignKey(s => s.PlanId);
 
         modelBuilder.Entity<Plan>()
             .HasMany(p => p.Subscriptions)

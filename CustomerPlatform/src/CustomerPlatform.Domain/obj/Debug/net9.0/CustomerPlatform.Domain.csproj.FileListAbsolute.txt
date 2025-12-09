@@ -9,3 +9,15 @@ D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Dom
 D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\refint\CustomerPlatform.Domain.dll
 D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.pdb
 D:\Interview\Code\2degree\Project\Code\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\ref\CustomerPlatform.Domain.dll
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\bin\Debug\net9.0\CustomerPlatform.Domain.deps.json
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\bin\Debug\net9.0\CustomerPlatform.Domain.dll
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\bin\Debug\net9.0\CustomerPlatform.Domain.pdb
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.AssemblyInfoInputs.cache
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.AssemblyInfo.cs
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.csproj.CoreCompileInputs.cache
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.sourcelink.json
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.dll
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\refint\CustomerPlatform.Domain.dll
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\CustomerPlatform.Domain.pdb
+D:\Interview\Code\2degree\Project\Repo\Microservice\CustomerPlatform\src\CustomerPlatform.Domain\obj\Debug\net9.0\ref\CustomerPlatform.Domain.dll

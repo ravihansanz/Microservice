@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+      "projectUniqueName": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
       "projectName": "CustomerPlatform.Domain",
-      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
+      "projectPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\CustomerPlatform.Domain.csproj",
       "packagesPath": "C:\\Users\\ravih\\.nuget\\packages\\",
-      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Code\\CustomerPlatform\\src\\CustomerPlatform.Domain\\obj\\",
+      "outputPath": "D:\\Interview\\Code\\2degree\\Project\\Repo\\Microservice\\CustomerPlatform\\src\\CustomerPlatform.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
